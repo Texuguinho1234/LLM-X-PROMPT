@@ -1,0 +1,2 @@
+# LLM X PROMPT
+ CP de IA 
